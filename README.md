@@ -1,2 +1,2 @@
-# SNLP ASI-1
+# minhashing
  Statistical Natural Language Processing Course Assignment 1
