@@ -1,2 +1,2 @@
 # minhashing
- Statistical Natural Language Processing Course Assignment 1
+Minhashing to estimate Jaccard Similarity between documents
